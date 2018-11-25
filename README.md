@@ -56,7 +56,7 @@ Epic |
 
 针对这些产品需求，有关於 任何的模型丶示意图或视觉设计
 ### 产品的信息图（初期）：
-![image](https://github.com/sunsipan/API_ML_AL/image)
+![image](https://github.com/sunsipan/API_ML_AL/image.png)
 
 
 

@@ -99,10 +99,10 @@ Epic | 卡路里助手
 
 针对这些产品需求，有关於 任何的模型丶示意图或视觉设计
 ### 产品信息结构图（初期）：
-![image](F:/大三/API/ISD.PNG)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/ISD.png)
 
 ### 产品功能结构图（初期）：
-![image](F:/大三/API/PFD.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/PFD.png)
 
 ### 原型-部分功能说明（初期）
 ##### 1. 弹窗-授权微信登陆

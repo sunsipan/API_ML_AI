@@ -76,14 +76,14 @@ Epic | 卡路里助手
 - 输出：牛肉粉，置信度为0.866
 - 判断：正确
 - 检测时间：约3秒
-![](F:/大三/API/2.png)
+![](https://github.com/sunsipan/API_ML_AI/blob/master/images/2.png)
 
 案例2
 - 输入：多种食物
 - 输出：非菜
 - 判断：无法识别
 - 时间：小于2秒
-![image](F:/大三/API/1.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/1.png)
 
 ##### 总结：
 百度菜色API，只能识别单一的菜色，对于多食物的照片无法识别；提供食物的热量信息，并没有提供更为具体的营养含量。
@@ -107,22 +107,22 @@ Epic | 卡路里助手
 ### 原型-部分功能说明（初期）
 ##### 1. 弹窗-授权微信登陆
 
-![image](F:/大三/API/wetchat.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/wetchat.png)
 
 
 
 
 ##### 2.关于卡路里小程序相关信息
-![image](F:/大三/API/关于小程序.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/about.png)
 
 
 
 ##### 3.拍照页面-核心
-![image](F:/大三/API/拍照页面.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/photo.png)
 
 
 ##### 4.卡路里用户数据页面-用于分享
-![image](F:/大三/API/卡路里用户数据页面.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/userdata.png)
 #### Not doing
 （不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这）
 

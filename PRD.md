@@ -68,7 +68,7 @@ Epic | 卡路里助手
  输入食物照片|输出食物相关的热量和营养含量|
 
 
-#### 调用api展示和可行性分析（前期尝试）
+##### 百度AI菜品识别-图片输入输出/可行性分析（前期尝试）
 - api:调用百度菜品识别api
 
 案例1：
@@ -85,7 +85,10 @@ Epic | 卡路里助手
 - 时间：小于2秒
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/1.png)
 
-#### 总结：
+##### 代码测试
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/python.jpg)
+结果：代码测试，出现了110错误，accent token无效；目前还没有解决。
+##### 总结：
 百度菜色API，只能识别单一的菜色，对于多食物的照片无法识别；提供食物的热量信息，并没有提供更为具体的营养含量。
 思考：怎么解决多菜色的照片，同时提供更为具体的营养信息。
 

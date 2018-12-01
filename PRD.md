@@ -123,6 +123,15 @@ Epic | 卡路里助手
 
 ##### 4.卡路里用户数据页面-用于分享
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/userdata.png)
+
+
+##### 5.图片扫描后输出的结果
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/outcome.png)
+
+
+##### 6.搜索页面
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/search.png)
+
 #### Not doing
 （不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这）
 

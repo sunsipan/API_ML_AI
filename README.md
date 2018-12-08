@@ -97,6 +97,10 @@ Epic | 卡路里助手
 思考：怎么解决多菜色的照片，同时提供更为具体的营养信息。
 
 
+#### API的二次尝试
+- https://world.openfoodfacts.org/data
+
+（待续）
 
 
 
@@ -138,7 +142,6 @@ Epic | 卡路里助手
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/search.png)
 
 #### Not doing
-（不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这）
 
 - 语音识别：用户直接通过语音询问得到食物在百科上的相关回答；
 

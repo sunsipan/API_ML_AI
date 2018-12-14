@@ -115,7 +115,7 @@ Epic | 卡路里助手
 1. 百度菜品API，用户输入一张带有食物的照片，输出食物的热量信息，并且提供每100g该食物的热量；只能识别单一的菜色。
 2. 可替代解决方案：（在无法调用更为庞大的食物库，以及体积估算）基于深度学习的目标检测算法-[技术采用Faster R-CNN](https://www.cnblogs.com/dudumiaomiao/p/6560841.html),来标记目标位置和类别，采用[GrabCut图像分割方法](https://blog.csdn.net/wi162yyxq/article/details/61619075)进行体积估算。-[参考资料](https://github.com/sunsipan/API_ML_AI/blob/master/create_pdf.pdf)
 
-![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/卡路里.jpg)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/卡路里.JPG)
 
 
 
@@ -136,7 +136,7 @@ Epic | 卡路里助手
 
 
 ##### 2.关于卡路里小程序相关信息
-![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/关于小程序.JPG)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/about.png)
 
 
 

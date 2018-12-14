@@ -99,7 +99,7 @@ Epic | 卡路里助手
 - 输出：图像标签
 - 判断：#
 - 检测时间：约3秒
-![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/aliyun-1.jpg)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/aliyun-1.JPG)
 
 
 #### API使用比较：
@@ -122,7 +122,7 @@ Epic | 卡路里助手
 # 第三部分产品设计
 #### [食物卡路里识别功能交互原型]()
 ### 产品信息结构图（初期）：
-![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/卡路里助手-产品信息结构图.PNG)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/%E5%8D%A1%E8%B7%AF%E9%87%8C%E5%8A%A9%E6%89%8B-%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
 ### 产品功能结构图（初期）：
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/卡路里助手.png)
@@ -136,7 +136,7 @@ Epic | 卡路里助手
 
 
 ##### 2.关于卡路里小程序相关信息
-![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/关于小程序.png)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/关于小程序.JPG)
 
 
 

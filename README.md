@@ -97,7 +97,7 @@ Epic | 卡路里助手
 思考：怎么解决多菜色的照片，同时提供更为具体的营养信息。
 
 ##### [代码测试（第二次）](https://github.com/sunsipan/API_ML_AI/blob/master/API-test.ipynb)
-![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/API-test.jpg)
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/API-test.JPG)
 
 
 #### API的二次尝试

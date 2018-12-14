@@ -96,7 +96,7 @@ Epic | 卡路里助手
 百度菜色API，只能识别单一的菜色，对于多食物的照片无法识别；提供食物的热量信息，并没有提供更为具体的营养含量。
 思考：怎么解决多菜色的照片，同时提供更为具体的营养信息。
 
-##### [代码测试（第二次）]((https://github.com/sunsipan/API_ML_AI/blob/master/API-test.ipynb)
+##### [代码测试（第二次）](https://github.com/sunsipan/API_ML_AI/blob/master/API-test.ipynb)
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/API-test.jpg)
 
 

@@ -125,6 +125,9 @@ Epic | 卡路里助手
 ### 产品功能结构图（初期）：
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/卡路里助手.png)
 
+### 核心流程图
+![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/产品核心流程图.jpg)
+
 ### 原型-部分功能说明（初期）
 ##### 1. 弹窗-授权微信登陆
 

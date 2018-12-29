@@ -137,10 +137,10 @@ Epic | 卡路里助手
 ##### 6.搜索页面
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/search.png)
 
-#### Not doing
-（不做 Not doing: 列出诗论及记录过的功能，超出范围的功能，下一版再改进的功能，都放在这）
 
-- 语音识别：用户直接通过语音询问得到食物在百科上的相关回答；
+#### Not doing
+
+- [语音识别](http://ai.baidu.com/tech/speech/asr)：用户直接通过语音询问得到食物在百科上的相关回答；
 
 - 高级版：通过注册后，用户可以根据个人需求考虑是否升级，升级后可以体验到更多附加功能。群体目标，比如国家运动员、私人教练
 

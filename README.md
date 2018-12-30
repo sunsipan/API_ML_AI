@@ -121,16 +121,16 @@ Epic | 卡路里助手
 
 # 第三部分产品设计
 #### 下载-[食物卡路里识别功能交互原型](https://sunsipan.github.io/Calorie1/start.html#g=1&p=index)
-### 产品信息结构图（初期）：
+### 产品信息结构图：
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/%E5%8D%A1%E8%B7%AF%E9%87%8C%E5%8A%A9%E6%89%8B-%E4%BA%A7%E5%93%81%E4%BF%A1%E6%81%AF%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
-### 产品功能结构图（初期）：
+### 产品功能结构图：
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/卡路里助手.png)
 
 ### 核心流程图
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/核心流程图.jpg)
 
-### 原型-部分功能说明（初期）
+### 原型-部分功能说明
 ##### 1. 弹窗-授权微信登陆
 
 ![image](https://github.com/sunsipan/API_ML_AI/blob/master/images/wetchat.png)
